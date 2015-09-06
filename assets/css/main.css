@@ -2888,6 +2888,13 @@
 
 	}
 
+/* Medium to Large */
+    @media screen and (min-width: 981px) {
+        ul.icons.quick-links li {
+            width: 100%;
+        }
+    }
+
 /* Medium */
 
 	@media screen and (max-width: 980px) {
